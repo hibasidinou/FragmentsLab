@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8BBD0</color>       <!-- baby pink -->
+    <color name="colorPrimaryDark">#F48FB1</color>   <!-- darker pink -->
+    <color name="colorAccent">#FF80AB</color>        <!-- accent pink -->
+</resources>
